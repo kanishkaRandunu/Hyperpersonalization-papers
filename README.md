@@ -6,6 +6,18 @@ Here is a collection of impactful research papers on the hyperpersonalization do
 
 **Table of Contents**
 
-- [Recommendation - General](#recommendation)
-- [Personalization - General](#personalization)
-- [Hyperpersonalization - General](#hyperpersonalization)
+- [Recommendation](#recommendation)
+- [Personalization](#personalization)
+- [Hyperpersonalization](#hyperpersonalization)
+
+## Recommendation
+- Survey: [Recommender systems survey (2013)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
+- Survey: [Recommender systems survey (2013)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
+ 
+## Personalization
+- Survey: [Recommender systems survey (2013)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
+- Survey: [Recommender systems survey (2013)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
+
+## Hyperpersonalization
+- Survey: [Recommender systems survey (2013)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
+- Survey: [Recommender systems survey (2013)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
