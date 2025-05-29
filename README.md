@@ -23,5 +23,5 @@ Here is a collection of impactful research papers on the hyperpersonalization do
 - Survey: [Recommender systems survey (2013)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
 - Survey: [Recommender systems survey (2013)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
 
-## Agentic AI
+## agenticai
 - Survey: [Generative to Agentic AI: Survey, Conceptualization, and Challenges (2025)](https://arxiv.org/pdf/2504.18875)
