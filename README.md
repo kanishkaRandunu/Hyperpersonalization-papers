@@ -1,4 +1,4 @@
-# Hyperpersonalization-papers
+# Hyperpersonalization - related papers
 
 Here is a collection of impactful research papers on the hyperpersonalization domain.
 
