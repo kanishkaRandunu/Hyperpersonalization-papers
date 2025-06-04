@@ -13,6 +13,8 @@ Here is a collection of impactful research papers on the hyperpersonalization do
 
 ## Recommendation
 - Survey: [Recommender systems survey (2013)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
+- Survey: [Towards Agentic Recommender Systems in the Era of Multimodal
+Large Language Models (2025)](https://arxiv.org/pdf/2503.16734)
  
 ## Personalization
 
