@@ -1,6 +1,6 @@
 # Hyperpersonalization - related papers
 
-Here is a collection of impactful research papers on the hyperpersonalization domain.
+This repository is a curated collection of impactful research papers in the field of hyperpersonalization and agentic recommender systems. As a PhD researcher, I continuously update this list with studies that advance our understanding of personalized AI-driven recommendations.
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./Contributing.md)
 
