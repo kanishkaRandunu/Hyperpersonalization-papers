@@ -2,6 +2,8 @@
 
 This repository is a curated collection of impactful research papers in the field of hyperpersonalization and agentic recommender systems. As a PhD researcher, I continuously update this list with studies that advance our understanding of personalized AI-driven recommendations.
 
+Have a relevant paper that I may have missed here? Want to contribute? Let's share the knowledge. Make a [pull request (PR)](https://github.com/kanishkaRandunu/Hyperpersonalization-papers/pulls)! 😄
+
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./Contributing.md)
 
 **Table of Contents**
