@@ -13,6 +13,7 @@ Have a relevant paper that I may have missed here? Want to contribute? Let's sha
 - [Hyperpersonalization](#hyperpersonalization)
 - [Agentic-AI](#agentic-ai)
 - [User-Modeling](#user-modeling)
+- [LLM-Memory-Management](#llm-memory-management)
 
 ## Recommendation
 - Survey: [Recommender systems survey (2013)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
@@ -28,3 +29,6 @@ Large Language Models (2025)](https://arxiv.org/pdf/2503.16734)
 
 ## User-Modeling
 - Survey: [User Modeling and User Profiling: A Comprehensive Survey (2024)](https://arxiv.org/pdf/2402.09660)
+
+## LLM-Memory-Management
+- Methods paper with source code: [MemGPT: Towards LLMs as Operating Systems (2024)](https://arxiv.org/pdf/2310.08560)
